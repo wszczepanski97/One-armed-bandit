@@ -1,0 +1,2681 @@
+{
+  "teams": [
+    {
+      "team0": [
+        {
+          "teamID": "Arka Gdynia"
+        },
+        {
+          "image": "herby/arka.png"
+        },
+        {
+          "last5": [
+            "D 0:0 Cracovia Kraków",
+            "D 1:1 Górnik Zabrze",
+            "W 3:1 Arka Gdynia",
+            "L 1:2 Korona Kielce",
+            "D 2:2 Zagłębie Sosnowiec"
+          ]
+        },
+        {
+          "vs":
+          [
+            {
+              "team1": [
+                [ {"Wygrane": 6},
+                  {"Remisy": 7},
+                  {"Przegrane": 4}
+                  ],
+                {"totalMatches": 17}
+
+              ]
+            },
+            {
+              "team2": [
+                [{"Wygrane": 8},
+                  {"Remisy": 7},
+                  {"Przegrane": 8}
+                ],
+                {"totalMatches": 23}
+
+              ]
+            },
+            {
+              "team3": [
+                [{"Wygrane": 2},
+                  {"Remisy": 2},
+                  {"Przegrane": 7}
+                ],
+                {"totalMatches": 11}
+
+              ]
+            },
+            {
+              "team4": [
+                [{"Wygrane": 4},
+                  {"Remisy": 1},
+                  {"Przegrane": 8}
+                ],
+                {"totalMatches": 13}
+              ]
+            },
+            {
+              "team5": [
+                [{"Wygrane": 11},
+                  {"Remisy": 10},
+                  {"Przegrane": 9}
+                ],
+                {"totalMatches": 30}
+
+              ]
+            },
+            {
+              "team6": [
+                [{"Wygrane": 0},
+                  {"Remisy": 2},
+                  {"Przegrane": 9}
+                ],
+                {"totalMatches": 11}
+
+              ]
+            },
+            {
+              "team7": [
+                [{"Wygrane": 3},
+                  {"Remisy": 7},
+                  {"Przegrane": 18}
+                ],
+                {"totalMatches": 28}
+
+              ]
+            },
+            {
+              "team8": [
+                [{"Wygrane": 0},
+                  {"Remisy": 0},
+                  {"Przegrane": 0}
+                ],
+                {"totalMatches": 0}
+
+              ]
+            },
+            {
+              "team9": [
+                [{"Wygrane": 3},
+                  {"Remisy": 3},
+                  {"Przegrane": 4}
+                ],
+                {"totalMatches": 10}
+
+              ]
+            },
+            {
+              "team10": [
+                [{"Wygrane": 4},
+                  {"Remisy": 4},
+                  {"Przegrane": 11}
+                ],
+                {"totalMatches": 19}
+
+              ]
+            },
+            {
+              "team11": [
+                [{"Wygrane": 8},
+                  {"Remisy": 5},
+                  {"Przegrane": 13}
+                ],
+                {"totalMatches": 26}
+
+              ]
+            },
+            {
+              "team12": [
+                [{"Wygrane": 7},
+                  {"Remisy": 7},
+                  {"Przegrane": 15}
+                ],
+                {"totalMatches": 29}
+
+              ]
+            },
+            {
+              "team13": [
+                [{"Wygrane": 3},
+                  {"Remisy": 5},
+                  {"Przegrane": 4}
+                ],
+                {"totalMatches": 10}
+
+              ]
+            },
+            {
+              "team14": [
+                [{"Wygrane": 3},
+                  {"Remisy": 4},
+                  {"Przegrane": 6}
+                ],
+                {"totalMatches": 13}
+
+              ]
+            },
+            {
+              "team15": [
+                [{"Wygrane": 5},
+                  {"Remisy": 5},
+                  {"Przegrane": 4}
+                ],
+                {"totalMatches": 14}
+
+              ]
+            }
+            ]
+        }
+      ]
+    },
+    {
+      "team1": [
+        {
+          "teamID": "Cracovia Kraków"
+        },
+        {
+          "image": "herby/cracovia.png"
+        },
+        {
+          "last5": [
+            "D 0:0 Arka Gdynia",
+            "D 1:1 Pogoń Szczecin",
+            "L 0:1 Zagłębie Lubin",
+            "L 1:3 Piast Gliwice",
+            "D 0:0 Legia Warszawa"
+          ]
+        },
+        {
+          "vs":
+          [
+            {
+              "team0": [
+                [{"Wygrane": 4},
+                  {"Remisy": 7},
+                  {"Przegrane": 6}
+                ],
+                {"totalMatches": 17}
+
+              ]
+            },
+            {
+              "team2": [
+                [{"Wygrane": 8},
+                  {"Remisy": 7},
+                  {"Przegrane": 23}
+                ],
+                {"totalMatches": 38}
+
+              ]
+            },
+            {
+              "team3": [
+                [{"Wygrane": 6},
+                  {"Remisy": 8},
+                  {"Przegrane": 7}
+                ],
+                {"totalMatches": 21}
+
+              ]
+            },
+            {
+              "team4": [
+                [{"Wygrane": 8},
+                  {"Remisy": 8},
+                  {"Przegrane": 8}
+                ],
+                {"totalMatches": 24}
+              ]
+            },
+            {
+              "team5": [
+                [{"Wygrane": 19},
+                  {"Remisy": 9},
+                  {"Przegrane": 20}
+                ],
+                {"totalMatches": 48}
+
+              ]
+            },
+            {
+              "team6": [
+                [{"Wygrane": 13},
+                  {"Remisy": 7},
+                  {"Przegrane": 12}
+                ],
+                {"totalMatches": 32}
+
+              ]
+            },
+            {
+              "team7": [
+                [{"Wygrane": 16},
+                  {"Remisy": 15},
+                  {"Przegrane": 40}
+                ],
+                {"totalMatches": 71}
+
+              ]
+            },
+            {
+              "team8": [
+                [{"Wygrane": 0},
+                  {"Remisy": 0},
+                  {"Przegrane": 0}
+                ],
+                {"totalMatches": 0}
+
+              ]
+            },
+            {
+              "team9": [
+                [{"Wygrane": 7},
+                  {"Remisy": 5},
+                  {"Przegrane": 8}
+                ],
+                {"totalMatches": 20}
+
+              ]
+            },
+            {
+              "team10": [
+                [{"Wygrane": 11},
+                  {"Remisy": 7},
+                  {"Przegrane": 11}
+                ],
+                {"totalMatches": 29}
+
+              ]
+            },
+            {
+              "team11": [
+                [{"Wygrane": 7},
+                  {"Remisy": 9},
+                  {"Przegrane": 12}
+                ],
+                {"totalMatches": 28}
+
+              ]
+            },
+            {
+              "team12": [
+                [{"Wygrane": 22},
+                  {"Remisy": 22},
+                  {"Przegrane": 32}
+                ],
+                {"totalMatches": 76}
+
+              ]
+            },
+            {
+              "team13": [
+                [{"Wygrane": 5},
+                  {"Remisy": 2},
+                  {"Przegrane": 4}
+                ],
+                {"totalMatches": 11}
+
+              ]
+            },
+            {
+              "team14": [
+                [{"Wygrane": 7},
+                  {"Remisy": 10},
+                  {"Przegrane": 9}
+                ],
+                {"totalMatches": 26}
+
+              ]
+            },
+            {
+              "team15": [
+                [{"Wygrane": 4},
+                  { "Remisy": 7},
+                  {"Przegrane": 5}
+                ],
+                {"totalMatches": 16}
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team2": [
+        {
+          "teamID": "Górnik Zabrze"
+        },
+        {
+          "image": "herby/gornik.png"
+        },
+        {
+          "last5": [
+            "W 3:1 Miedź Legnica",
+            "D 1:1 Arka Gdynia",
+            "L 0:2 Lechia Gdańsk",
+            "L 0:3 Wisła Kraków",
+            "D 1:1 Pogoń Szczecin"
+          ]
+        },
+        {
+          "vs":
+          [
+            {
+              "team0": [
+                [{"Wygrane": 8},
+                  {"Remisy": 7},
+                  {"Przegrane": 8}
+                ],
+                {"totalMatches": 23}
+
+              ]
+            },
+            {
+              "team1": [
+                [{"Wygrane": 23},
+                  {"Remisy": 7},
+                  {"Przegrane": 8}
+                ],
+                {"totalMatches": 38}
+
+              ]
+            },
+            {
+              "team3": [
+                [{"Wygrane": 11},
+                  {"Remisy": 8},
+                  {"Przegrane": 10}
+                ],
+                {"totalMatches": 29}
+
+              ]
+            },
+            {
+              "team4": [
+                [{"Wygrane": 4},
+                  {"Remisy": 9},
+                  {"Przegrane": 10}
+                ],
+                {"totalMatches": 23}
+              ]
+            },
+            {
+              "team5": [
+                [{"Wygrane": 27},
+                  {"Remisy": 26},
+                  {"Przegrane": 40}
+                ],
+                {"totalMatches": 93}
+
+              ]
+            },
+            {
+              "team6": [
+                [{"Wygrane": 17},
+                  {"Remisy": 13},
+                  {"Przegrane": 11}
+                ],
+                {"totalMatches": 41}
+
+              ]
+            },
+            {
+              "team7": [
+                [{"Wygrane": 41},
+                  {"Remisy": 29},
+                  {"Przegrane": 51}
+                ],
+                {"totalMatches": 121}
+
+              ]
+            },
+            {
+              "team8": [
+                [{"Wygrane": 1},
+                  {"Remisy": 0},
+                  {"Przegrane": 0}
+                ],
+                {"totalMatches": 1}
+
+              ]
+            },
+            {
+              "team9": [
+                [{"Wygrane": 7},
+                  {"Remisy": 1},
+                  {"Przegrane": 4}
+                ],
+                {"totalMatches": 12}
+
+              ]
+            },
+            {
+              "team10": [
+                [{"Wygrane": 45},
+                  {"Remisy": 25},
+                  {"Przegrane": 16}
+                ],
+                {"totalMatches": 86}
+
+              ]
+            },
+            {
+              "team11": [
+                [{"Wygrane": 29},
+                  {"Remisy": 24},
+                  {"Przegrane": 21}
+                ],
+                {"totalMatches": 74}
+
+              ]
+            },
+            {
+              "team12": [
+                [{"Wygrane": 44},
+                  {"Remisy": 28},
+                  {"Przegrane": 39}
+                ],
+                {"totalMatches": 111}
+
+              ]
+            },
+            {
+              "team13": [
+                [{"Wygrane": 7},
+                  {"Remisy": 8},
+                  {"Przegrane": 7}
+                ],
+                {"totalMatches": 22}
+
+              ]
+            },
+            {
+              "team14": [
+                [{"Wygrane": 18},
+                  {"Remisy": 24},
+                  {"Przegrane": 15}
+                ],
+                {"totalMatches": 57}
+
+              ]
+            },
+            {
+              "team15": [
+                [{"Wygrane": 35},
+                  { "Remisy": 17},
+                  {"Przegrane": 14}
+                ],
+                {"totalMatches": 66}
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+        {"team3": [
+          {"teamID": "Jagiellonia Białystok"},
+          {"image": "herby/jaga.png"},
+          {"last5": [
+        "W 1:0 Wisła Kraków",
+        "W 2:0 Zagłębie Lubin",
+        "W 2:1 Piast Gliwice",
+        "L 2:3 Miedź Legnica",
+        "D 1:1 Wisła Płock"
+      ]},
+          {
+            "vs":
+            [
+              {
+                "team0": [
+                  [{"Wygrane": 7},
+                    {"Remisy": 2},
+                    {"Przegrane": 2}
+                  ],
+                  {"totalMatches": 11}
+
+                ]
+              },
+              {
+                "team1": [
+                  [{"Wygrane": 7},
+                    {"Remisy": 8},
+                    {"Przegrane": 6}
+                  ],
+                  {"totalMatches": 21}
+
+                ]
+              },
+              {
+                "team2": [
+                  [{"Wygrane": 10},
+                    {"Remisy": 8},
+                    {"Przegrane": 11}
+                  ],
+                  {"totalMatches": 29}
+
+                ]
+              },
+              {
+                "team4": [
+                  [{"Wygrane": 10},
+                    {"Remisy": 7},
+                    {"Przegrane": 7}
+                  ],
+                  {"totalMatches": 24}
+                ]
+              },
+              {
+                "team5": [
+                  [{"Wygrane": 13},
+                    {"Remisy": 4},
+                    {"Przegrane": 18}
+                  ],
+                  {"totalMatches": 35}
+
+                ]
+              },
+              {
+                "team6": [
+                  [{"Wygrane": 7},
+                    {"Remisy": 5},
+                    {"Przegrane": 13}
+                  ],
+                  {"totalMatches": 25}
+
+                ]
+              },
+              {
+                "team7": [
+                  [{"Wygrane": 9},
+                    {"Remisy": 10},
+                    {"Przegrane": 14}
+                  ],
+                  {"totalMatches": 33}
+
+                ]
+              },
+              {
+                "team8": [
+                  [{"Wygrane": 0},
+                    {"Remisy": 0},
+                    {"Przegrane": 0}
+                  ],
+                  {"totalMatches": 0}
+
+                ]
+              },
+              {
+                "team9": [
+                  [{"Wygrane": 9},
+                    {"Remisy": 4},
+                    {"Przegrane": 5}
+                  ],
+                  {"totalMatches": 18}
+
+                ]
+              },
+              {
+                "team10": [
+                  [{"Wygrane": 10},
+                    {"Remisy": 5},
+                    {"Przegrane": 7}
+                  ],
+                  {"totalMatches": 22}
+
+                ]
+              },
+              {
+                "team11": [
+                  [{"Wygrane": 10},
+                    {"Remisy": 9},
+                    {"Przegrane": 12}
+                  ],
+                  {"totalMatches": 31}
+
+                ]
+              },
+              {
+                "team12": [
+                  [{"Wygrane": 10},
+                    {"Remisy": 8},
+                    {"Przegrane": 15}
+                  ],
+                  {"totalMatches": 33}
+
+                ]
+              },
+              {
+                "team13": [
+                  [{"Wygrane": 2},
+                    {"Remisy": 0},
+                    {"Przegrane": 3}
+                  ],
+                  {"totalMatches": 5}
+
+                ]
+              },
+              {
+                "team14": [
+                  [{"Wygrane": 10},
+                    {"Remisy": 6},
+                    {"Przegrane": 11}
+                  ],
+                  {"totalMatches": 27}
+
+                ]
+              },
+              {
+                "team15": [
+                  [{"Wygrane": 1},
+                    {"Remisy": 2},
+                    {"Przegrane": 1}
+                  ],
+                  {"totalMatches": 4}
+
+                ]
+              }
+            ]
+          }
+          ]
+    },
+          {"team4": [
+            {"teamID": "Korona Kielce"},
+            {"image": "herby/korona.png"},
+            {"last5": [
+        "W 2:1 Wisła Płock",
+        "W 2:1 Śląsk Wrocław",
+        "D 1:1 Miedź Legnica",
+        "W 2:1 Arka Gdynia",
+        "L 0:2 Lechia Gdańsk"
+      ]},
+            {
+              "vs":
+              [
+                {
+                  "team0": [
+                    [{"Wygrane": 8},
+                      {"Remisy": 1},
+                      {"Przegrane": 4}
+                    ],
+                    {"totalMatches": 13}
+
+                  ]
+                },
+                {
+                  "team1": [
+                    [{"Wygrane": 8},
+                      {"Remisy": 8},
+                      {"Przegrane": 8}
+                    ],
+                    {"totalMatches": 24}
+
+                  ]
+                },
+                {
+                  "team2": [
+                    [{"Wygrane": 10},
+                      {"Remisy": 9},
+                      {"Przegrane": 4}
+                    ],
+                    {"totalMatches": 23}
+
+                  ]
+                },
+                {
+                  "team3": [
+                    [{"Wygrane": 7},
+                      {"Remisy": 7},
+                      {"Przegrane": 10}
+                    ],
+                    {"totalMatches": 24}
+                  ]
+                },
+                {
+                  "team5": [
+                    [{"Wygrane": 5},
+                      {"Remisy": 8},
+                      {"Przegrane": 13}
+                    ],
+                    {"totalMatches": 26}
+
+                  ]
+                },
+                {
+                  "team6": [
+                    [{"Wygrane": 10},
+                      {"Remisy": 5},
+                      {"Przegrane": 4}
+                    ],
+                    {"totalMatches": 19}
+
+                  ]
+                },
+                {
+                  "team7": [
+                    [{"Wygrane": 6},
+                      {"Remisy": 4},
+                      {"Przegrane": 17}
+                    ],
+                    {"totalMatches": 27}
+
+                  ]
+                },
+                {
+                  "team8": [
+                    [{"Wygrane": 0},
+                      {"Remisy": 1},
+                      {"Przegrane": 0}
+                    ],
+                    {"totalMatches": 1}
+
+                  ]
+                },
+                {
+                  "team9": [
+                    [{"Wygrane": 7},
+                      {"Remisy": 5},
+                      {"Przegrane": 4}
+                    ],
+                    {"totalMatches": 16}
+
+                  ]
+                },
+                {
+                  "team10": [
+                    [{"Wygrane": 3},
+                      {"Remisy": 7},
+                      {"Przegrane": 7}
+                    ],
+                    {"totalMatches": 17}
+
+                  ]
+                },
+                {
+                  "team11": [
+                    [{"Wygrane": 7},
+                      {"Remisy": 9},
+                      {"Przegrane": 5}
+                    ],
+                    {"totalMatches": 21}
+
+                  ]
+                },
+                {
+                  "team12": [
+                    [{"Wygrane": 8},
+                      { "Remisy": 10},
+                      {"Przegrane": 9}
+                    ],
+                    {"totalMatches": 27}
+
+                  ]
+                },
+                {
+                  "team13": [
+                    [{"Wygrane": 6},
+                      {"Remisy": 1},
+                      {"Przegrane": 5}
+                    ],
+                    {"totalMatches": 12}
+
+                  ]
+                },
+                {
+                  "team14": [
+                    [{"Wygrane": 3},
+                      {"Remisy": 10},
+                      {"Przegrane": 13}
+                    ],
+                    {"totalMatches": 26}
+
+                  ]
+                },
+                {
+                  "team15": [
+                    [{"Wygrane": 2},
+                      {"Remisy": 0},
+                      {"Przegrane": 0}
+                    ],
+                    {"totalMatches": 2}
+
+                  ]
+                }
+              ]
+            }
+            ]
+    },
+            {"team5": [
+              {"teamID": "Lech Poznań"},
+              {"image": "herby/lech.png"},
+              {"last5": [
+        "W 1:0 Śląsk Wrocław",
+        "W 4:0 Zagłębie Sosnowiec",
+        "L 2:5 Wisła Kraków",
+        "L 1:2 Zagłębie Lubin",
+        "D 1:1 Piast Gliwice"
+      ]},
+              {
+                "vs":
+                [
+                  {
+                    "team0": [
+                      [{"Wygrane": 9},
+                        {"Remisy": 10},
+                        {"Przegrane": 11}
+                      ],
+                      {"totalMatches": 30}
+
+                    ]
+                  },
+                  {
+                    "team1": [
+                      [{"Wygrane": 20},
+                        {"Remisy": 9},
+                        {"Przegrane": 19}
+                      ],
+                      {"totalMatches": 48}
+
+                    ]
+                  },
+                  {
+                    "team2": [
+                      ["Wygrane: 40",
+                        "Remisy: 26",
+                        "Przegrane: 27"
+                      ],
+                      {"totalMatches": 93}
+
+                    ]
+                  },
+                  {
+                    "team3": [
+                      ["Wygrane: 18",
+                        "Remisy: 4",
+                        "Przegrane: 13"
+                      ],
+                      {"totalMatches": 35}
+                    ]
+                  },
+                  {
+                    "team4": [
+                      ["Wygrane: 13",
+                        "Remisy: 8",
+                        "Przegrane: 5"
+                      ],
+                      {"totalMatches": 26}
+
+                    ]
+                  },
+                  {
+                    "team6": [
+                      ["Wygrane: 25",
+                        "Remisy: 11",
+                        "Przegrane: 14"
+                      ],
+                      {"totalMatches": 50}
+
+                    ]
+                  },
+                  {
+                    "team7": [
+                      ["Wygrane: 34",
+                        "Remisy: 30",
+                        "Przegrane: 51"
+                      ],
+                      {"totalMatches": 115}
+
+                    ]
+                  },
+                  {
+                    "team8": [
+                      ["Wygrane: 0",
+                        "Remisy: 0",
+                        "Przegrane: 0"
+                      ],
+                      {"totalMatches": 0}
+
+                    ]
+                  },
+                  {
+                    "team9": [
+                      ["Wygrane: 11",
+                        "Remisy: 3",
+                        "Przegrane: 3"
+                      ],
+                      {"totalMatches": 17}
+
+                    ]
+                  },
+                  {
+                    "team10": [
+                      ["Wygrane: 23",
+                        "Remisy: 22",
+                        "Przegrane: 25"
+                      ],
+                      {"totalMatches": 70}
+
+                    ]
+                  },
+                  {
+                    "team11": [
+                      ["Wygrane: 31",
+                        "Remisy: 15",
+                        "Przegrane: 20"
+                      ],
+                      {"totalMatches": 66}
+
+                    ]
+                  },
+                  {
+                    "team12": [
+                      ["Wygrane: 39",
+                        "Remisy: 28",
+                        "Przegrane: 40"
+                      ],
+                      {"totalMatches": 107}
+
+                    ]
+                  },
+                  {
+                    "team13": [
+                      ["Wygrane: 9",
+                        "Remisy: 7",
+                        "Przegrane: 6"
+                      ],
+                      {"totalMatches": 22}
+
+                    ]
+                  },
+                  {
+                    "team14": [
+                      ["Wygrane: 23",
+                        "Remisy: 17",
+                        "Przegrane: 16"
+                      ],
+                      {"totalMatches": 56}
+
+                    ]
+                  },
+                  {
+                    "team15": [
+                      ["Wygrane: 22",
+                        "Remisy: 13",
+                        "Przegrane: 16"
+                      ],
+                      {"totalMatches": 47}
+
+                    ]
+                  }
+                ]
+              }
+              ]
+    },
+              {"team6": [
+                {"teamID": "Lechia Gdańsk"},
+                {"image": "herby/lechia.png"},
+                {"last5": [
+        "D 0:0 Legia Warszawa",
+        "W 2:0 Miedź Legnica",
+        "W 2:0 Górnik Zabrze",
+        "W 3:2 Pogoń Szczecin",
+        "W 2:0 Korona Kielce"
+      ]},
+                {
+                  "vs":
+                  [
+                    {
+                      "team0": [
+                        ["Wygrane: 9",
+                          "Remisy: 2",
+                          "Przegrane: 0"
+                        ],
+                        {"totalMatches": 11}
+
+                      ]
+                    },
+                    {
+                      "team1": [
+                        ["Wygrane: 12",
+                          "Remisy: 7",
+                          "Przegrane: 13"
+                        ],
+                        {"totalMatches": 32}
+
+                      ]
+                    },
+                    {
+                      "team2": [
+                        ["Wygrane: 11",
+                          "Remisy: 13",
+                          "Przegrane: 17"
+                        ],
+                        {"totalMatches": 41}
+
+                      ]
+                    },
+                    {
+                      "team3": [
+                        ["Wygrane: 13",
+                          "Remisy: 5",
+                          "Przegrane: 7"
+                        ],
+                        {"totalMatches": 25}
+                      ]
+                    },
+                    {
+                      "team4": [
+                        ["Wygrane: 4",
+                          "Remisy: 5",
+                          "Przegrane: 10"
+                        ],
+                        {"totalMatches": 19}
+
+                      ]
+                    },
+                    {
+                      "team5": [
+                        ["Wygrane: 14",
+                          "Remisy: 11",
+                          "Przegrane: 25"
+                        ],
+                        {"totalMatches": 50}
+
+                      ]
+                    },
+                    {
+                      "team7": [
+                        ["Wygrane: 11",
+                          "Remisy: 12",
+                          "Przegrane: 30"
+                        ],
+                        {"totalMatches": 53}
+
+                      ]
+                    },
+                    {
+                      "team8": [
+                        ["Wygrane: 1",
+                          "Remisy: 0",
+                          "Przegrane: 0"
+                        ],
+                        {"totalMatches": 1}
+
+                      ]
+                    },
+                    {
+                      "team9": [
+                        ["Wygrane: 9",
+                          "Remisy: 3",
+                          "Przegrane: 6"
+                        ],
+                        {"totalMatches": 18}
+
+                      ]
+                    },
+                    {
+                      "team10": [
+                        ["Wygrane: 11",
+                          "Remisy: 9",
+                          "Przegrane: 12"
+                        ],
+                        {"totalMatches": 32}
+
+                      ]
+                    },
+                    {
+                      "team11": [
+                        ["Wygrane: 8",
+                          "Remisy: 10",
+                          "Przegrane: 13"
+                        ],
+                        {"totalMatches": 31}
+
+                      ]
+                    },
+                    {
+                      "team12": [
+                        ["Wygrane: 14",
+                          "Remisy: 11",
+                          "Przegrane: 22"
+                        ],
+                        {"totalMatches": 47}
+
+                      ]
+                    },
+                    {
+                      "team13": [
+                        ["Wygrane: 3",
+                          "Remisy: 0",
+                          "Przegrane: 1"
+                        ],
+                        {"totalMatches": 4}
+
+                      ]
+                    },
+                    {
+                      "team14": [
+                        ["Wygrane: 13",
+                          "Remisy: 5",
+                          "Przegrane: 5"
+                        ],
+                        {"totalMatches": 23}
+
+                      ]
+                    },
+                    {
+                      "team15": [
+                        ["Wygrane: 6",
+                          "Remisy: 3",
+                          "Przegrane: 9"
+                        ],
+                        {"totalMatches": 18}
+
+                      ]
+                    }
+                  ]
+                }
+                ]
+    },
+                {"team7": [
+                  {"teamID": "Legia Warszawa"},
+                  {"image": "herby/legia.png"},
+                  {"last5": [
+        "D 0:0 Lechia Gdańsk",
+        "W 3:1 Piast Gliwice",
+        "W 2:1 Zagłębie Sosnowiec",
+        "L 1:4 Wisła Płock",
+        "D 0:0 Cracovia Kraków"
+      ]},
+                  {
+                    "vs":
+                    [
+                      {
+                        "team0": [
+                          ["Wygrane: 18",
+                            "Remisy: 7",
+                            "Przegrane: 3"
+                          ],
+                          {"totalMatches": 28}
+
+                        ]
+                      },
+                      {
+                        "team1": [
+                          ["Wygrane: 40",
+                            "Remisy: 15",
+                            "Przegrane: 16"
+                          ],
+                          {"totalMatches": 71}
+
+                        ]
+                      },
+                      {
+                        "team2": [
+                          ["Wygrane: 51",
+                            "Remisy: 29",
+                            "Przegrane: 41"
+                          ],
+                          {"totalMatches": 121}
+
+                        ]
+                      },
+                      {
+                        "team3": [
+                          ["Wygrane: 14",
+                            "Remisy: 10",
+                            "Przegrane: 9"
+                          ],
+                          {"totalMatches": 33}
+                        ]
+                      },
+                      {
+                        "team4": [
+                          ["Wygrane: 17",
+                            "Remisy: 4",
+                            "Przegrane: 6"
+                          ],
+                          {"totalMatches": 27}
+
+                        ]
+                      },
+                      {
+                        "team5": [
+                          ["Wygrane: 51",
+                            "Remisy: 30",
+                            "Przegrane: 34"
+                          ],
+                          {"totalMatches": 115}
+
+                        ]
+                      },
+                      {
+                        "team6": [
+                          ["Wygrane: 30",
+                            "Remisy: 12",
+                            "Przegrane: 11"
+                          ],
+                          {"totalMatches": 53}
+
+                        ]
+                      },
+                      {
+                        "team8": [
+                          ["Wygrane: 0",
+                            "Remisy: 0",
+                            "Przegrane: 0"
+                          ],
+                          {"totalMatches": 0}
+
+                        ]
+                      },
+                      {
+                        "team9": [
+                          ["Wygrane: 12",
+                            "Remisy: 4",
+                            "Przegrane: 2"
+                          ],
+                          {"totalMatches": 18}
+
+                        ]
+                      },
+                      {
+                        "team10": [
+                          ["Wygrane: 62",
+                            "Remisy: 21",
+                            "Przegrane: 13"
+                          ],
+                          {"totalMatches": 96}
+
+                        ]
+                      },
+                      {
+                        "team11": [
+                          ["Wygrane: 41",
+                            "Remisy: 21",
+                            "Przegrane: 17"
+                          ],
+                          {"totalMatches": 79}
+
+                        ]
+                      },
+                      {
+                        "team12": [
+                          ["Wygrane: 55",
+                            "Remisy: 40",
+                            "Przegrane: 57"
+                          ],
+                          {"totalMatches": 152}
+
+                        ]
+                      },
+                      {
+                        "team13": [
+                          ["Wygrane: 15",
+                            "Remisy: 4",
+                            "Przegrane: 4"
+                          ],
+                          {"totalMatches": 23}
+
+                        ]
+                      },
+                      {
+                        "team14": [
+                          ["Wygrane: 29",
+                            "Remisy: 18",
+                            "Przegrane: 12"
+                          ],
+                          {"totalMatches": 59}
+
+                        ]
+                      },
+                      {
+                        "team15": [
+                          ["Wygrane: 36",
+                            "Remisy: 23",
+                            "Przegrane: 12"
+                          ],
+                          {"totalMatches": 71}
+
+                        ]
+                      }
+                    ]
+                  }
+                  ]
+    },
+                  {"team8": [
+                    {"teamID": "Miedź Legnica"},
+                    {"image": "herby/miedz.png"},
+                    {"last5": [
+        "L 1:3 Górnik Zabrze",
+        "L 0:2 Lechia Gdańsk",
+        "D 1:1 Korona Kielce",
+        "W 3:2 Jagiellonia Białystok",
+        "W 2:0 Zagłębie Lubin"
+      ]},
+                    {
+                      "vs":
+                      [
+                        {
+                          "team0": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+
+                          ]
+                        },
+                        {
+                          "team1": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+
+                          ]
+                        },
+                        {
+                          "team2": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 1"
+                            ],
+                            {"totalMatches": 1}
+
+                          ]
+                        },
+                        {
+                          "team3": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+                          ]
+                        },
+                        {
+                          "team4": [
+                            ["Wygrane: 0",
+                              "Remisy: 1",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 1}
+
+                          ]
+                        },
+                        {
+                          "team5": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+
+                          ]
+                        },
+                        {
+                          "team6": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 1"
+                            ],
+                            {"totalMatches": 1}
+
+                          ]
+                        },
+                        {
+                          "team7": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+
+                          ]
+                        },
+                        {
+                          "team9": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+
+                          ]
+                        },
+                        {
+                          "team10": [
+                            ["Wygrane: 1",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 1}
+
+                          ]
+                        },
+                        {
+                          "team11": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+
+                          ]
+                        },
+                        {
+                          "team12": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 1"
+                            ],
+                            {"totalMatches": 1}
+
+                          ]
+                        },
+                        {
+                          "team13": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+
+                          ]
+                        },
+                        {
+                          "team14": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+
+                          ]
+                        },
+                        {
+                          "team15": [
+                            ["Wygrane: 0",
+                              "Remisy: 0",
+                              "Przegrane: 0"
+                            ],
+                            {"totalMatches": 0}
+
+                          ]
+                        }
+                      ]
+                    }
+                    ]
+    },
+                    {"team9": [
+                      {"teamID": "Piast Gliwice"},
+                      {"image": "herby/piast.png"},
+                      {"last5": [
+        "W 2:1 Zagłębie Lubin",
+        "L 1:3 Legia Warszawa",
+        "L 1:2 Jagiellonia Białystok",
+        "W 3:1 Cracovia Kraków",
+        "D 1:1 Lech Poznań"
+      ]},
+                      {
+                        "vs":
+                        [
+                          {
+                            "team0": [
+                              ["Wygrane: 4",
+                                "Remisy: 3",
+                                "Przegrane: 3"
+                              ],
+                              {"totalMatches": 10}
+
+                            ]
+                          },
+                          {
+                            "team1": [
+                              ["Wygrane: 8",
+                                "Remisy: 5",
+                                "Przegrane: 7"
+                              ],
+                              {"totalMatches": 20}
+
+                            ]
+                          },
+                          {
+                            "team2": [
+                              ["Wygrane: 4",
+                                "Remisy: 1",
+                                "Przegrane: 7"
+                              ],
+                              {"totalMatches": 12}
+
+                            ]
+                          },
+                          {
+                            "team3": [
+                              ["Wygrane: 5",
+                                "Remisy: 4",
+                                "Przegrane: 9"
+                              ],
+                              {"totalMatches": 18}
+                            ]
+                          },
+                          {
+                            "team4": [
+                              ["Wygrane: 4",
+                                "Remisy: 5",
+                                "Przegrane: 7"
+                              ],
+                              {"totalMatches": 16}
+
+                            ]
+                          },
+                          {
+                            "team5": [
+                              ["Wygrane: 3",
+                                "Remisy: 3",
+                                "Przegrane: 11"
+                              ],
+                              {"totalMatches": 17}
+
+                            ]
+                          },
+                          {
+                            "team6": [
+                              ["Wygrane: 6",
+                                "Remisy: 3",
+                                "Przegrane: 9"
+                              ],
+                              {"totalMatches": 18}
+
+                            ]
+                          },
+                          {
+                            "team7": [
+                              ["Wygrane: 2",
+                                "Remisy: 4",
+                                "Przegrane: 12"
+                              ],
+                              {"totalMatches": 18}
+
+                            ]
+                          },
+                          {
+                            "team8": [
+                              ["Wygrane: 0",
+                                "Remisy: 0",
+                                "Przegrane: 0"
+                              ],
+                              {"totalMatches": 0}
+
+                            ]
+                          },
+                          {
+                            "team10": [
+                              ["Wygrane: 5",
+                                "Remisy: 5",
+                                "Przegrane: 5"
+                              ],
+                              {"totalMatches": 15}
+
+                            ]
+                          },
+                          {
+                            "team11": [
+                              ["Wygrane: 8",
+                                "Remisy: 7",
+                                "Przegrane: 4"
+                              ],
+                              {"totalMatches": 19}
+
+                            ]
+                          },
+                          {
+                            "team12": [
+                              ["Wygrane: 3",
+                                "Remisy: 5",
+                                "Przegrane: 8"
+                              ],
+                              {"totalMatches": 16}
+
+                            ]
+                          },
+                          {
+                            "team13": [
+                              ["Wygrane: 3",
+                                "Remisy: 1",
+                                "Przegrane: 1"
+                              ],
+                              {"totalMatches": 5}
+
+                            ]
+                          },
+                          {
+                            "team14": [
+                              ["Wygrane: 6",
+                                "Remisy: 5",
+                                "Przegrane: 5"
+                              ],
+                              {"totalMatches": 16}
+
+                            ]
+                          },
+                          {
+                            "team15": [
+                              ["Wygrane: 1",
+                                "Remisy: 0",
+                                "Przegrane: 0"
+                              ],
+                              {"totalMatches": 1}
+
+                            ]
+                          }
+                        ]
+                      }
+                      ]
+    },
+                      {"team10": [
+                        {"teamID": "Pogoń Szczecin"},
+                        {"image": "herby/pogon.png"},
+                        {"last5": [
+        "L 0:3 Zagłębie Sosnowiec",
+        "D 1:1 Cracovia Kraków",
+        "D 0:0 Śląsk Wrocław",
+        "L 2:3 Lechia Gdańsk",
+        "D 1:1 Górnik Zabrze"
+      ]},
+                        {
+                          "vs":
+                          [
+                            {
+                              "team0": [
+                                ["Wygrane: 11",
+                                  "Remisy: 4",
+                                  "Przegrane: 4"
+                                ],
+                                {"totalMatches": 19}
+
+                              ]
+                            },
+                            {
+                              "team1": [
+                                ["Wygrane: 11",
+                                  "Remisy: 7",
+                                  "Przegrane: 11"
+                                ],
+                                {"totalMatches": 29}
+
+                              ]
+                            },
+                            {
+                              "team2": [
+                                ["Wygrane: 16",
+                                  "Remisy: 25",
+                                  "Przegrane: 45"
+                                ],
+                                {"totalMatches": 86}
+
+                              ]
+                            },
+                            {
+                              "team3": [
+                                ["Wygrane: 7",
+                                  "Remisy: 5",
+                                  "Przegrane: 8"
+                                ],
+                                {"totalMatches": 20}
+                              ]
+                            },
+                            {
+                              "team4": [
+                                ["Wygrane: 7",
+                                  "Remisy: 7",
+                                  "Przegrane: 3"
+                                ],
+                                {"totalMatches": 17}
+
+                              ]
+                            },
+                            {
+                              "team5": [
+                                ["Wygrane: 25",
+                                  "Remisy: 22",
+                                  "Przegrane: 23"
+                                ],
+                                {"totalMatches": 70}
+
+                              ]
+                            },
+                            {
+                              "team6": [
+                                ["Wygrane: 12",
+                                  "Remisy: 9",
+                                  "Przegrane: 11"
+                                ],
+                                {"totalMatches": 32}
+
+                              ]
+                            },
+                            {
+                              "team7": [
+                                ["Wygrane: 13",
+                                  "Remisy: 21",
+                                  "Przegrane: 62"
+                                ],
+                                {"totalMatches": 96}
+
+                              ]
+                            },
+                            {
+                              "team8": [
+                                ["Wygrane: 0",
+                                  "Remisy: 0",
+                                  "Przegrane: 1"
+                                ],
+                                {"totalMatches": 1}
+
+                              ]
+                            },
+                            {
+                              "team9": [
+                                ["Wygrane: 5",
+                                  "Remisy: 5",
+                                  "Przegrane: 5"
+                                ],
+                                {"totalMatches": 15}
+
+                              ]
+                            },
+                            {
+                              "team11": [
+                                ["Wygrane: 17",
+                                  "Remisy: 19",
+                                  "Przegrane: 23"
+                                ],
+                                {"totalMatches": 59}
+
+                              ]
+                            },
+                            {
+                              "team12": [
+                                ["Wygrane: 21",
+                                  "Remisy: 24",
+                                  "Przegrane: 36"
+                                ],
+                                {"totalMatches": 81}
+
+                              ]
+                            },
+                            {
+                              "team13": [
+                                ["Wygrane: 7",
+                                  "Remisy: 3",
+                                  "Przegrane: 10"
+                                ],
+                                {"totalMatches": 20}
+
+                              ]
+                            },
+                            {
+                              "team14": [
+                                ["Wygrane: 11",
+                                  "Remisy: 18",
+                                  "Przegrane: 12"
+                                ],
+                                {"totalMatches": 41}
+
+                              ]
+                            },
+                            {
+                              "team15": [
+                                ["Wygrane: 14",
+                                  "Remisy: 8",
+                                  "Przegrane: 23"
+                                ],
+                                {"totalMatches": 45}
+
+                              ]
+                            }
+                          ]
+                        }
+                        ]
+    },
+                        {"team11": [
+                          {"teamID": "Śląsk Wrocław"},
+                          {"image": "herby/slask.png"},
+                          {"last5": [
+        "L 0:1 Lech Poznań",
+        "L 1:2 Korona Kielce",
+        "D 0:0 Pogoń Szczecin",
+        "D 3:3 Zagłębie Sosnowiec",
+        "L 0:1 Wisła Kraków"
+      ]},
+                          {
+                            "vs":
+                            [
+                              {
+                                "team0": [
+                                  ["Wygrane: 13",
+                                    "Remisy: 5",
+                                    "Przegrane: 8"
+                                  ],
+                                  {"totalMatches": 26}
+
+                                ]
+                              },
+                              {
+                                "team1": [
+                                  ["Wygrane: 12",
+                                    "Remisy: 9",
+                                    "Przegrane: 7"
+                                  ],
+                                  {"totalMatches": 28}
+
+                                ]
+                              },
+                              {
+                                "team2": [
+                                  ["Wygrane: 21",
+                                    "Remisy: 24",
+                                    "Przegrane: 29"
+                                  ],
+                                  {"totalMatches": 74}
+
+                                ]
+                              },
+                              {
+                                "team3": [
+                                  ["Wygrane: 12",
+                                    "Remisy: 9",
+                                    "Przegrane: 10"
+                                  ],
+                                  {"totalMatches": 31}
+                                ]
+                              },
+                              {
+                                "team4": [
+                                  ["Wygrane: 5",
+                                    "Remisy: 9",
+                                    "Przegrane: 7"
+                                  ],
+                                  {"totalMatches": 21}
+
+                                ]
+                              },
+                              {
+                                "team5": [
+                                  ["Wygrane: 20",
+                                    "Remisy: 15",
+                                    "Przegrane: 31"
+                                  ],
+                                  {"totalMatches": 66}
+
+                                ]
+                              },
+                              {
+                                "team6": [
+                                  ["Wygrane: 13",
+                                    "Remisy: 10",
+                                    "Przegrane: 8"
+                                  ],
+                                  {"totalMatches": 31}
+
+                                ]
+                              },
+                              {
+                                "team7": [
+                                  ["Wygrane: 17",
+                                    "Remisy: 21",
+                                    "Przegrane: 41"
+                                  ],
+                                  {"totalMatches": 79}
+
+                                ]
+                              },
+                              {
+                                "team8": [
+                                  ["Wygrane: 0",
+                                    "Remisy: 0",
+                                    "Przegrane: 0"
+                                  ],
+                                  {"totalMatches": 0}
+
+                                ]
+                              },
+                              {
+                                "team9": [
+                                  ["Wygrane: 4",
+                                    "Remisy: 7",
+                                    "Przegrane: 8"
+                                  ],
+                                  {"totalMatches": 19}
+
+                                ]
+                              },
+                              {
+                                "team10": [
+                                  ["Wygrane: 23",
+                                    "Remisy: 19",
+                                    "Przegrane: 17"
+                                  ],
+                                  {"totalMatches": 59}
+
+                                ]
+                              },
+                              {
+                                "team12": [
+                                  ["Wygrane: 28",
+                                    "Remisy: 14",
+                                    "Przegrane: 26"
+                                  ],
+                                  {"totalMatches": 68}
+
+                                ]
+                              },
+                              {
+                                "team13": [
+                                  ["Wygrane: 1",
+                                    "Remisy: 3",
+                                    "Przegrane: 1"
+                                  ],
+                                  {"totalMatches": 5}
+
+                                ]
+                              },
+                              {
+                                "team14": [
+                                  ["Wygrane: 15",
+                                    "Remisy: 8",
+                                    "Przegrane: 17"
+                                  ],
+                                  {"totalMatches": 40}
+
+                                ]
+                              },
+                              {
+                                "team15": [
+                                  ["Wygrane: 16",
+                                    "Remisy: 13",
+                                    "Przegrane: 13"
+                                  ],
+                                  {"totalMatches": 42}
+
+                                ]
+                              }
+                            ]
+                          }
+                          ]
+    },
+                          {"team12": [
+                            {"teamID": "Wisła Kraków"},
+                            {"image": "herby/wislak.png"},
+                            {"last5": [
+        "L 0:1 Jagiellonia Białystok",
+        "D 1:1 Wisła Płock",
+        "W 5:2 Lech Poznań",
+        "W 3:0 Górnik Zabrze",
+        "W 1:0 Śląsk Wrocław"
+      ]},
+                            {
+                              "vs":
+                              [
+                                {
+                                  "team0": [
+                                    ["Wygrane: 15",
+                                      "Remisy: 7",
+                                      "Przegrane: 7"
+                                    ],
+                                    {"totalMatches": 29}
+
+                                  ]
+                                },
+                                {
+                                  "team1": [
+                                    ["Wygrane: 33",
+                                      "Remisy: 22",
+                                      "Przegrane: 24"
+                                    ],
+                                    {"totalMatches": 78}
+
+                                  ]
+                                },
+                                {
+                                  "team2": [
+                                    ["Wygrane: 39",
+                                      "Remisy: 28",
+                                      "Przegrane: 44"
+                                    ],
+                                    {"totalMatches": 111}
+
+                                  ]
+                                },
+                                {
+                                  "team3": [
+                                    ["Wygrane: 15",
+                                      "Remisy: 8",
+                                      "Przegrane: 10"
+                                    ],
+                                    {"totalMatches": 33}
+                                  ]
+                                },
+                                {
+                                  "team4": [
+                                    ["Wygrane: 9",
+                                      "Remisy: 10",
+                                      "Przegrane: 8"
+                                    ],
+                                    {"totalMatches": 27}
+
+                                  ]
+                                },
+                                {
+                                  "team5": [
+                                    ["Wygrane: 40",
+                                      "Remisy: 28",
+                                      "Przegrane: 39"
+                                    ],
+                                    {"totalMatches": 107}
+
+                                  ]
+                                },
+                                {
+                                  "team6": [
+                                    ["Wygrane: 22",
+                                      "Remisy: 11",
+                                      "Przegrane: 14"
+                                    ],
+                                    {"totalMatches": 47}
+
+                                  ]
+                                },
+                                {
+                                  "team7": [
+                                    ["Wygrane: 57",
+                                      "Remisy: 40",
+                                      "Przegrane: 55"
+                                    ],
+                                    {"totalMatches": 152}
+
+                                  ]
+                                },
+                                {
+                                  "team8": [
+                                    ["Wygrane: 1",
+                                      "Remisy: 0",
+                                      "Przegrane: 0"
+                                    ],
+                                    {"totalMatches": 1}
+
+                                  ]
+                                },
+                                {
+                                  "team9": [
+                                    ["Wygrane: 8",
+                                      "Remisy: 5",
+                                      "Przegrane: 3"
+                                    ],
+                                    {"totalMatches": 16}
+
+                                  ]
+                                },
+                                {
+                                  "team10": [
+                                    ["Wygrane: 36",
+                                      "Remisy: 24",
+                                      "Przegrane: 21"
+                                    ],
+                                    {"totalMatches": 81}
+
+                                  ]
+                                },
+                                {
+                                  "team11": [
+                                    ["Wygrane: 26",
+                                      "Remisy: 14",
+                                      "Przegrane: 29"
+                                    ],
+                                    {"totalMatches": 68}
+
+                                  ]
+                                },
+                                {
+                                  "team13": [
+                                    ["Wygrane: 13",
+                                      "Remisy: 6",
+                                      "Przegrane: 3"
+                                    ],
+                                    {"totalMatches": 22}
+
+                                  ]
+                                },
+                                {
+                                  "team14": [
+                                    ["Wygrane: 27",
+                                      "Remisy: 11",
+                                      "Przegrane: 11"
+                                    ],
+                                    {"totalMatches": 49}
+
+                                  ]
+                                },
+                                {
+                                  "team15": [
+                                    ["Wygrane: 24",
+                                      "Remisy: 18",
+                                      "Przegrane: 22"
+                                    ],
+                                    {"totalMatches": 64}
+
+                                  ]
+                                }
+                              ]
+                            }
+                            ]
+    },
+                            {"team13": [
+                              {"teamID": "Wisła Płock"},
+                              {"image": "herby/wislap.png"},
+                              {"last5": [
+        "L 1:2 Korona Kielce",
+        "D 1:1 Wisła Kraków",
+        "L 1:3 Arka Gdynia",
+        "W 4:1 Legia Warszawa",
+        "D 1:1 Jagiellonia Białystok"
+      ]},
+                              {
+                                "vs":
+                                [
+                                  {
+                                    "team0": [
+                                      ["Wygrane: 3",
+                                        "Remisy: 5",
+                                        "Przegrane: 2"
+                                      ],
+                                      {"totalMatches": 10}
+
+                                    ]
+                                  },
+                                  {
+                                    "team1": [
+                                      ["Wygrane: 4",
+                                        "Remisy: 2",
+                                        "Przegrane: 5"
+                                      ],
+                                      {"totalMatches": 11}
+
+                                    ]
+                                  },
+                                  {
+                                    "team2": [
+                                      ["Wygrane: 7",
+                                        "Remisy: 8",
+                                        "Przegrane: 7"
+                                      ],
+                                      {"totalMatches": 22}
+
+                                    ]
+                                  },
+                                  {
+                                    "team3": [
+                                      ["Wygrane: 3",
+                                        "Remisy: 0",
+                                        "Przegrane: 2"
+                                      ],
+                                      {"totalMatches": 5}
+                                    ]
+                                  },
+                                  {
+                                    "team4": [
+                                      ["Wygrane: 4",
+                                        "Remisy: 1",
+                                        "Przegrane: 5"
+                                      ],
+                                      {"totalMatches": 10}
+
+                                    ]
+                                  },
+                                  {
+                                    "team5": [
+                                      ["Wygrane: 6",
+                                        "Remisy: 7",
+                                        "Przegrane: 9"
+                                      ],
+                                      {"totalMatches": 22}
+
+                                    ]
+                                  },
+                                  {
+                                    "team6": [
+                                      ["Wygrane: 1",
+                                        "Remisy: 0",
+                                        "Przegrane: 3"
+                                      ],
+                                      {"totalMatches": 4}
+
+                                    ]
+                                  },
+                                  {
+                                    "team7": [
+                                      ["Wygrane: 4",
+                                        "Remisy: 4",
+                                        "Przegrane: 15"
+                                      ],
+                                      {"totalMatches": 23}
+
+                                    ]
+                                  },
+                                  {
+                                    "team8": [
+                                      ["Wygrane: 0",
+                                        "Remisy: 0",
+                                        "Przegrane: 0"
+                                      ],
+                                      {"totalMatches": 0}
+
+                                    ]
+                                  },
+                                  {
+                                    "team9": [
+                                      ["Wygrane: 1",
+                                        "Remisy: 1",
+                                        "Przegrane: 3"
+                                      ],
+                                      {"totalMatches": 5}
+
+                                    ]
+                                  },
+                                  {
+                                    "team10": [
+                                      ["Wygrane: 10",
+                                        "Remisy: 3",
+                                        "Przegrane: 7"
+                                      ],
+                                      {"totalMatches": 20}
+
+                                    ]
+                                  },
+                                  {
+                                    "team11": [
+                                      ["Wygrane: 3",
+                                        "Remisy: 3",
+                                        "Przegrane: 1"
+                                      ],
+                                      {"totalMatches": 7}
+
+                                    ]
+                                  },
+                                  {
+                                    "team12": [
+                                      ["Wygrane: 3",
+                                        "Remisy: 6",
+                                        "Przegrane: 13"
+                                      ],
+                                      {"totalMatches": 22}
+
+                                    ]
+                                  },
+                                  {
+                                    "team14": [
+                                      ["Wygrane: 9",
+                                        "Remisy: 3",
+                                        "Przegrane: 10"
+                                      ],
+                                      {"totalMatches": 22}
+
+                                    ]
+                                  },
+                                  {
+                                    "team15": [
+                                      ["Wygrane: 0",
+                                        "Remisy: 0",
+                                        "Przegrane: 0"
+                                      ],
+                                      {"totalMatches": 0}
+
+                                    ]
+                                  }
+                                ]
+                              }
+                              ]
+    },
+                              {"team14": [
+                                {"teamID": "Zagłębie Lubin"},
+                                {"image": "herby/zaglebiel.png"},
+                                {"last5": [
+        "L 1:2 Piast Gliwice",
+        "L 0:2 Jagiellonia Białystok",
+        "W 1:0 Cracovia Kraków",
+        "W 2:1 Lech Poznań",
+        "L 0:2 Miedź Legnica"
+      ]},
+                                {
+                                  "vs":
+                                  [
+                                    {
+                                      "team0": [
+                                        ["Wygrane: 6",
+                                          "Remisy: 4",
+                                          "Przegrane: 3"
+                                        ],
+                                        {"totalMatches": 13}
+
+                                      ]
+                                    },
+                                    {
+                                      "team1": [
+                                        ["Wygrane: 9",
+                                          "Remisy: 10",
+                                          "Przegrane: 7"
+                                        ],
+                                        {"totalMatches": 26}
+
+                                      ]
+                                    },
+                                    {
+                                      "team2": [
+                                        ["Wygrane: 15",
+                                          "Remisy: 24",
+                                          "Przegrane: 18"
+                                        ],
+                                        {"totalMatches": 57}
+
+                                      ]
+                                    },
+                                    {
+                                      "team3": [
+                                        ["Wygrane: 11",
+                                          "Remisy: 6",
+                                          "Przegrane: 10"
+                                        ],
+                                        {"totalMatches": 27}
+                                      ]
+                                    },
+                                    {
+                                      "team4": [
+                                        ["Wygrane: 12",
+                                          "Remisy: 9",
+                                          "Przegrane: 3"
+                                        ],
+                                        {"totalMatches": 24}
+
+                                      ]
+                                    },
+                                    {
+                                      "team5": [
+                                        ["Wygrane: 16",
+                                          "Remisy: 17",
+                                          "Przegrane: 23"
+                                        ],
+                                        {"totalMatches": 56}
+
+                                      ]
+                                    },
+                                    {
+                                      "team6": [
+                                        ["Wygrane: 5",
+                                          "Remisy: 5",
+                                          "Przegrane: 13"
+                                        ],
+                                        {"totalMatches": 23}
+
+                                      ]
+                                    },
+                                    {
+                                      "team7": [
+                                        ["Wygrane: 12",
+                                          "Remisy: 18",
+                                          "Przegrane: 29"
+                                        ],
+                                        {"totalMatches": 59}
+
+                                      ]
+                                    },
+                                    {
+                                      "team8": [
+                                        ["Wygrane: 0",
+                                          "Remisy: 0",
+                                          "Przegrane: 0"
+                                        ],
+                                        {"totalMatches": 0}
+
+                                      ]
+                                    },
+                                    {
+                                      "team9": [
+                                        ["Wygrane: 5",
+                                          "Remisy: 5",
+                                          "Przegrane: 6"
+                                        ],
+                                        {"totalMatches": 16}
+
+                                      ]
+                                    },
+                                    {
+                                      "team10": [
+                                        ["Wygrane: 12",
+                                          "Remisy: 18",
+                                          "Przegrane: 11"
+                                        ],
+                                        {"totalMatches": 41}
+
+                                      ]
+                                    },
+                                    {
+                                      "team11": [
+                                        ["Wygrane: 17",
+                                          "Remisy: 8",
+                                          "Przegrane: 15"
+                                        ],
+                                        {"totalMatches": 40}
+
+                                      ]
+                                    },
+                                    {
+                                      "team12": [
+                                        ["Wygrane: 11",
+                                          "Remisy: 11",
+                                          "Przegrane: 27"
+                                        ],
+                                        {"totalMatches": 49}
+
+                                      ]
+                                    },
+                                    {
+                                      "team13": [
+                                        ["Wygrane: 10",
+                                          "Remisy: 3",
+                                          "Przegrane: 9"
+                                        ],
+                                        {"totalMatches": 22}
+
+                                      ]
+                                    },
+                                    {
+                                      "team15": [
+                                        ["Wygrane: 9",
+                                          "Remisy: 2",
+                                          "Przegrane: 0"
+                                        ],
+                                        {"totalMatches": 11}
+
+                                      ]
+                                    }
+                                  ]
+                                }
+                                ]
+    },
+                                {"team15": [
+                                  {"teamID": "Zagłębie Sosnowiec"},
+                                  {"image": "herby/zaglebies.png"},
+                                  {"last5": [
+        "W 3:0 Pogoń Szczecin",
+        "L 0:4 Lech Poznań",
+        "L 1:2 Legia Warszawa",
+        "D 3:3 Śląsk Wrocław",
+        "D 2:2 Arka Gdynia"
+      ]},
+                                  {
+                                    "vs":
+                                    [
+                                      {
+                                        "team0": [
+                                          ["Wygrane: 4",
+                                            "Remisy: 5",
+                                            "Przegrane: 5"
+                                          ],
+                                          {"totalMatches": 14}
+
+                                        ]
+                                      },
+                                      {
+                                        "team1": [
+                                          ["Wygrane: 5",
+                                            "Remisy: 7",
+                                            "Przegrane: 4"
+                                          ],
+                                          {"totalMatches": 16}
+
+                                        ]
+                                      },
+                                      {
+                                        "team2": [
+                                          ["Wygrane: 14",
+                                            "Remisy: 17",
+                                            "Przegrane: 35"
+                                          ],
+                                          {"totalMatches": 66}
+
+                                        ]
+                                      },
+                                      {
+                                        "team3": [
+                                          ["Wygrane: 1",
+                                            "Remisy: 2",
+                                            "Przegrane: 1"
+                                          ],
+                                          {"totalMatches": 4}
+                                        ]
+                                      },
+                                      {
+                                        "team4": [
+                                          ["Wygrane: 0",
+                                            "Remisy: 0",
+                                            "Przegrane: 2"
+                                          ],
+                                          {"totalMatches": 2}
+
+                                        ]
+                                      },
+                                      {
+                                        "team5": [
+                                          ["Wygrane: 14",
+                                            "Remisy: 13",
+                                            "Przegrane: 20"
+                                          ],
+                                          {"totalMatches": 47}
+
+                                        ]
+                                      },
+                                      {
+                                        "team6": [
+                                          ["Wygrane: 9",
+                                            "Remisy: 3",
+                                            "Przegrane: 6"
+                                          ],
+                                          {"totalMatches": 18}
+
+                                        ]
+                                      },
+                                      {
+                                        "team7": [
+                                          ["Wygrane: 12",
+                                            "Remisy: 23",
+                                            "Przegrane: 36"
+                                          ],
+                                          {"totalMatches": 71}
+
+                                        ]
+                                      },
+                                      {
+                                        "team8": [
+                                          ["Wygrane: 0",
+                                            "Remisy: 0",
+                                            "Przegrane: 0"
+                                          ],
+                                          {"totalMatches": 0}
+
+                                        ]
+                                      },
+                                      {
+                                        "team9": [
+                                          ["Wygrane: 0",
+                                            "Remisy: 0",
+                                            "Przegrane: 1"
+                                          ],
+                                          {"totalMatches": 1}
+
+                                        ]
+                                      },
+                                      {
+                                        "team10": [
+                                          ["Wygrane: 23",
+                                            "Remisy: 8",
+                                            "Przegrane: 14"
+                                          ],
+                                          {"totalMatches": 45}
+
+                                        ]
+                                      },
+                                      {
+                                        "team11": [
+                                          ["Wygrane: 13",
+                                            "Remisy: 13",
+                                            "Przegrane: 16"
+                                          ],
+                                          {"totalMatches": 42}
+
+                                        ]
+                                      },
+                                      {
+                                        "team12": [
+                                          ["Wygrane: 22",
+                                            "Remisy: 18",
+                                            "Przegrane: 24"
+                                          ],
+                                          {"totalMatches": 64}
+
+                                        ]
+                                      },
+                                      {
+                                        "team13": [
+                                          ["Wygrane: 0",
+                                            "Remisy: 0",
+                                            "Przegrane: 0"
+                                          ],
+                                          {"totalMatches": 0}
+
+                                        ]
+                                      },
+                                      {
+                                        "team14": [
+                                          ["Wygrane: 0",
+                                            "Remisy: 2",
+                                            "Przegrane: 9"
+                                          ],
+                                          {"totalMatches": 11}
+
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                  ]
+    }
+  ]
+}
