@@ -1,10 +1,9 @@
-# startingPoint
+# One-armed Bandit
 
-yarn install albo npm install
-yarn run dev - starujemy server
-yarn run start - sam webpack
+App slots two teams from polish Lotto Ekstraklasa and compares last 5 matches of these teams in league. Who has more points, wins.
+Work in progress...
 
-albo 
 
-npm run dev 
-npm run start
+# To watch
+yarn run start or npm start =  run webpack
+yarn run dev or npm run dev = start a server
