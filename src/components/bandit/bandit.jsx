@@ -16,8 +16,9 @@ export class Bandit extends React.Component {
 
     doSlot = (e) => {
         this.setState({
-            disabled: true
-        })
+            disabled: true,
+        });
+        this.props.callbackLast(this.state.last5, this.state.vs, this.state.teamFirst, this.state.teamSecond);
         if(this.state.disabled){
             e.target.disabled = this.state.disabled;
         }
@@ -50,7 +51,13 @@ export class Bandit extends React.Component {
             slot2.innerHTML = arrayofVs[changeVs];
         }, 50);
         setTimeout(() => {
-            clearInterval(vsChange)
+            this.setState({
+                vs: false,
+                last5: false,
+                value: false
+            });
+                this.props.callbackLast(this.state.last5, this.state.vs, this.state.teamFirst, this.state.teamSecond);
+            clearInterval(vsChange);
             if (slot2.innerHTML === arrayofVs[0]) {
                 this.setState(
                     {

@@ -33,7 +33,7 @@ class App extends React.Component {
        {this.state.last5 === true ? <Last teamFirst = {this.state.teamFirst.value}
                                           teamSecond = {this.state.teamSecond.value} /> : null}
 
-             {this.state.vs === true ? <Vs /> : null}
+             {this.state.vs === true ? <Vs teamFirst = {this.state.teamFirst.value} teamSecond = {this.state.teamSecond.value} /> : null}
          </div>
      )
    }
